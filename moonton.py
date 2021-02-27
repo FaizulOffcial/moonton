@@ -8,10 +8,8 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Creator Faizul #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
-# Python version : 3.7++                                   #
+# Creator Faizul   #                     
+# Python version : 3.7++                           
 ############################################################
 
 import os, sys, hashlib, json, random, re
